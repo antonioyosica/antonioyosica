@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm António Yosica</h1>
-<h3 align="center">A passionate Entrepreneur, Software Developer and SEO Expert from Angola</h3>
+<h1 align="center">António Yosica</h1>
+<h3 align="center">A passionate Software Engineer, SEO Expert and Entrepreneur from Angola.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antonioyosica&label=Profile%20views&color=0e75b6&style=flat" alt="antonioyosica" /> </p>
 
@@ -7,19 +7,19 @@
 
 - 🔭 I’m currently working on **Deban**
 
-- 🌱 I’m currently learning **A-Frame**
+- 🌱 I’m currently learning **Nuxt v3**
 
 - 👯 I’m looking to collaborate on **any WebApp Optimization Tool**
 
-- 👨‍💻 All of my projects are available at [https://www.vaawel.com/portfolio](https://www.vaawel.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://antonioyosica.com](https://antonioyosica.com/)
 
-- 📝 I regularly write articles on [https://blog.vaawel.com/](https://blog.vaawel.com/)
+- 📝 I regularly write articles on [https://blog.antonioyosica.com/](https://blog.antonioyosica.com/)
 
-- 💬 Ask me about **Frontend, Backend, WebApp Optimization, Jenkins, Linux Server (Ubuntu) and Azure DevOps**
+- 💬 Ask me about **Frontend, Backend, WebApp Optimization, Jenkins, Docker, Linux Server (Ubuntu) and Azure DevOps**
 
-- 📫 How to reach me **yosica@vaawel.com**
+- 📫 How to reach me **ola@antonioyosica.com**
 
-- 📄 Know about my experiences [https://yosica.vaawel.com/](https://yosica.vaawel.com/)
+- 📄 Know about my experiences [https://antonioyosica.com](https://antonioyosica.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
